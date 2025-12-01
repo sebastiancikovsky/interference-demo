@@ -61,4 +61,9 @@ The workflow is deterministic and produces consistent outputs across environment
 
 ## License
 
-This repository is provided for academic and demonstrational purposes.
+## License
+
+All rights reserved.  
+This repository is provided exclusively for academic and demonstrational purposes related to the associated research work.  
+No part of this code or dataset may be reproduced, distributed, or used for commercial purposes without explicit permission from the author.
+

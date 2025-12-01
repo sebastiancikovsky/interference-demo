@@ -5,7 +5,7 @@ from pca_pipeline_demo import PCAPipeline
 from anomaly_detection_demo import SimpleAnomalyDetector
 
 def main():
-    df = pd.read_csv("data/sample_data.csv")
+    df = pd.read_csv("sample_data.csv")
     X = df.drop("label", axis=1).values
     y = df["label"].values
 

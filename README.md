@@ -1,6 +1,7 @@
 # Interference Detection and Anomaly Classification – Demonstration Repository
 
-This repository provides a concise and fully reproducible demonstration of PCA-based interference detection and anomaly classification. It includes a synthetic multichannel dataset and clean reference implementations that illustrate the core methodology discussed in the related research.
+**Data Disclaimer:**  
+All data included in this repository are fully synthetic and generated solely for demonstration and reproducibility purposes. This repository provides a concise and fully reproducible demonstration of PCA-based interference detection and anomaly classification. It includes a synthetic multichannel dataset and clean reference implementations that illustrate the core methodology discussed in the related research.
 
 ## Contents
 

@@ -38,8 +38,8 @@ This script loads the dataset, applies PCA for dimensionality reduction, compute
 
 You can run the full reproducible demo (including all plots) directly in Google Colab:
 
-[[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sebastiancikovsky/interference-demo/blob/main/colab_demo.ipynb)](https://colab.research.google.com/github/sebastiancikovsky/interference-demo/blob/main/colab_demo.ipynb
-)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sebastiancikovsky/interference-demo/blob/main/colab_demo.ipynb)
+
 
 Alternatively, in a new Google Colab notebook you may execute:
 
